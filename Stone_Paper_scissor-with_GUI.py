@@ -32,6 +32,8 @@ root.title("game")
 root.geometry("600x600")
 Button(root,text = "play",command = play,height = 4,width = 12).place(x = 200,y = 350)
 
+
+
 root.mainloop()
 
 
