@@ -19,5 +19,6 @@ def split(sud):
         line += r
     print(line)
 
-    
+   
+   
 split(sud)
