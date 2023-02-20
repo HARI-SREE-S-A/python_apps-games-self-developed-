@@ -1,6 +1,23 @@
-sud = "004006079000000602056092300078061030509000406020540890007410920105000000840600100"
-line = []
-grid = []
-for i,n in enumerate(sud):
-    if i and i % 9 == 0:
+def grid_tr(sud):
+   
+    line = []
+    grid = []
+    for i,n in enumerate(sud):
+        if i and i % 9 == 0:
+            grid.append(line)
+            line = []
+        line.append(int(n))
+    return grid
+
+def split(sud):
+    grid = grid_tr(sud)
+    #print(grid)
+    line = ""
+    for row in grid:
         
+        r = "".join(str(x) for x in row)
+        line += r
+    print(line)
+
+    
+split(sud)
