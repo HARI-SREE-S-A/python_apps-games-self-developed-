@@ -2,7 +2,7 @@ import random
 score1 = 0
 score2 = 0
 lisst1 = ["stone","paper","scissor"]
-hb
+hbn
 
 while score1 < 5 and score2 < 5:
     player1 = input(str(("player1 enter your choice ")))
