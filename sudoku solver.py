@@ -1,7 +1,6 @@
 def grid_tr(sud):
    
-   
-      
+        
                   
     line = []
     grid = []
