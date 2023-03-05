@@ -3,6 +3,7 @@ def grid_tr(sud):
    
       
       
+      
     line = []
     grid = []
     for i,n in enumerate(sud):
