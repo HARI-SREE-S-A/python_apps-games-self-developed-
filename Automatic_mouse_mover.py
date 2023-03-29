@@ -1,6 +1,4 @@
 import random
-import time
-
 import autopy
 import datetime
 
