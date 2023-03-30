@@ -4,6 +4,7 @@ import datetime
 
 
 
+
 time = int(input("enter the loop in x 100 ")
 lock = int(input("enetr t- sec your screen lock time ")
 
