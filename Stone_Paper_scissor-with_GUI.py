@@ -19,8 +19,6 @@ options = ['stone','paper','scissor']
 
 
 
-
-
 player1 = Label(root,text = "select an option ",font = ('Calibri(Body)',13,'bold'))
 player1.place(x=50,y = 150)
 vari = StringVar()
