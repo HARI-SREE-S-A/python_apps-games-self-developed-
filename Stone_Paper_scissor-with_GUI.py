@@ -5,6 +5,8 @@ import random
 
 
  
+ 
+ 
 
 def play():
     player2 = "paper"
