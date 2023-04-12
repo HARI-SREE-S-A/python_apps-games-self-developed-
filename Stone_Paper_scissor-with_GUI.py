@@ -2,8 +2,6 @@ from tkinter import *
 from tkinter import messagebox
 import random
 
-
-
 def play():
     player2 = "paper"
     if vari.get() == "stone" and player2 == "paper":
