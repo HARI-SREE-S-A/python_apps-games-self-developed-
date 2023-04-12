@@ -6,8 +6,7 @@ def play():
     player2 = "paper"
     if vari.get() == "stone" and player2 == "paper":
         Label(root,text = player2,font = ("Calibri(Body)",12,'bold')).place(x = 200,y = 250)
-        
-       
+               
 
 
 root = Tk()
