@@ -48,9 +48,4 @@ playy.place(x = 300,y = 200)
 
 
 
-
-
-
-
-
 root.mainloop()
