@@ -11,9 +11,6 @@ def play():
     
 
 
-
-
-
 root = Tk()
 root.title("game")
 root.geometry("600x600")
