@@ -1,6 +1,6 @@
 def grid_tr(sud):
    
-    8 8 8 8 88
+    8 8 8 8 888
                   
     line = []
     grid = []
