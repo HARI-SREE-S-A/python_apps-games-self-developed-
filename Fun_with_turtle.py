@@ -2,7 +2,7 @@ import time
 import turtle
 
 t = turtle.Turtle()
-#repos
+#repository
 t.color("blue")
 t.speed(1)
 t
