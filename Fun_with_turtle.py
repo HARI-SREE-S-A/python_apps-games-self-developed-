@@ -5,7 +5,7 @@ t = turtle.Turtle()
 #repository
 t.color("blue")
 t.speed(1)
-t
+
 t.penup()
 t.goto(-300, 0)
 t.pendown()
