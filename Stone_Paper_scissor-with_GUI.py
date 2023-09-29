@@ -8,7 +8,6 @@ def play():
         Label(root,text = player2,font = ("Calibri(Body)",12,'bold')).place(x = 200,y = 250)
                
 
-
 root = Tk()
 root.title("game")
 root.geometry("600x600")
